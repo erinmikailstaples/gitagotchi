@@ -1,0 +1,34 @@
+{
+  "name": "gitagotchi",
+  "version": "0.1.0",
+  "description": "Your terminal's favorite pet: an odd little dino-alien whose habitat grows from how you code.",
+  "type": "module",
+  "bin": {
+    "gitagotchi": "bin/gitagotchi.js"
+  },
+  "files": [
+    "bin/",
+    "src/"
+  ],
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "keywords": [
+    "cli",
+    "terminal",
+    "tamagotchi",
+    "pet",
+    "developer-tools",
+    "zsh",
+    "bash"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erinmikailstaples/gitagotchi.git"
+  },
+  "bugs": "https://github.com/erinmikailstaples/gitagotchi/issues",
+  "homepage": "https://github.com/erinmikailstaples/gitagotchi#readme",
+  "engines": {
+    "node": ">=18"
+  }
+}
