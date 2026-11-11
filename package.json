@@ -1,7 +1,7 @@
 {
   "name": "gitagotchi-dev",
   "version": "0.1.0",
-  "license": "PolyForm-Noncommercial-1.0.0",
+  "license": "MIT",
   "description": "Your terminal's favorite pet: an odd little dino-alien whose habitat grows from how you code.",
   "type": "module",
   "bin": {

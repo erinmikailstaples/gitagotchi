@@ -69,5 +69,5 @@ npm test
 
 ## License
 
-[PolyForm Noncommercial 1.0.0](LICENSE.md). Free to use, modify, and share for
-personal and other noncommercial purposes; commercial use is not permitted.
+[MIT](LICENSE.md). Free to use, modify, distribute, and sell, subject to the
+license terms.
