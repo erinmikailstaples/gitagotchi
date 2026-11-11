@@ -10,7 +10,7 @@ becomes unmistakably yours.
 ## Install
 
 ```sh
-npm install -g gitagotchi    # once published; for now: npm install -g .
+npm install -g gitagotchi-dev    # once published; for now: npm install -g .
 echo 'eval "$(gitagotchi init zsh)"' >> ~/.zshrc   # or: init bash >> ~/.bashrc
 ```
 
@@ -66,3 +66,8 @@ only recoveries. All data stays local in `~/.gitagotchi` (override with
 ```sh
 npm test
 ```
+
+## License
+
+[PolyForm Noncommercial 1.0.0](LICENSE.md). Free to use, modify, and share for
+personal and other noncommercial purposes; commercial use is not permitted.

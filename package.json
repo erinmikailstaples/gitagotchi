@@ -1,6 +1,7 @@
 {
-  "name": "gitagotchi",
+  "name": "gitagotchi-dev",
   "version": "0.1.0",
+  "license": "PolyForm-Noncommercial-1.0.0",
   "description": "Your terminal's favorite pet: an odd little dino-alien whose habitat grows from how you code.",
   "type": "module",
   "bin": {
@@ -8,7 +9,8 @@
   },
   "files": [
     "bin/",
-    "src/"
+    "src/",
+    "LICENSE.md"
   ],
   "scripts": {
     "test": "node --test test/"
